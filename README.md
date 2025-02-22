@@ -1,10 +1,6 @@
 📚 Livraria das Amigas - Busca Inteligente de Livros
 Uma plataforma moderna para busca de livros com recomendações em tempo real usando a Google Books API
 
-Live Demo
-License
-
-<div align="center"> <img src="screenshot.jpg" alt="Captura de Tela" width="80%"> </div>
 ✨ Funcionalidades Principais
 🔍 Busca Avançada
 Use sintaxe especial para filtrar por autor, editora, categoria ou ISBN
