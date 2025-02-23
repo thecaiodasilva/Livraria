@@ -34,25 +34,3 @@ JavaScript Moderno - Fetch API, Async/Await, Scroll Infinito
 CSS Avançado - Grid, Flexbox, Variáveis CSS, Media Queries
 
 HTML Semântico - Acessibilidade e SEO friendly
-
-🚀 Como Usar
-Clone o repositório
-
-bash
-Copy
-git clone https://github.com/seu-usuario/livraria-das-amigas.git
-Obtenha uma API Key
-
-Acesse Google Cloud Console
-
-Ative a Google Books API
-
-Gere uma chave e cole no arquivo script.js
-
-Execute o projeto
-
-bash
-Copy
-# Servidor local simples (Python)
-python3 -m http.server 8000
-Acesse: http://localhost:8000
