@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyA4IvS30etNgLyimhOlIvu8Po4wBpj9JBk'; // Substitua pela sua chave!
+const API_KEY = 'AIzaSyA4IvS30etNgLyimhOlIvu8Po4wBpj9JBk'; 
 
 let currentPage = 1;
 const resultsPerPage = 12;
